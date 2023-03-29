@@ -1,13 +1,13 @@
-# 👨‍💻unit testing 💻
+# 👨‍💻 unit testing 💻
 
-# 👨🏻‍🚀jest-testing-example
-## Languages
+# 👨🏻‍🚀 jest-testing-example
+## 🚀 Languages
 - Javascript
-## Library/Framework,etc.
+## 🛸 Library/Framework,etc.
 - Node.js
 - Jest
 
-###### HOW TO RUN THIS PROJECT 
+###### 🚁 HOW TO RUN THIS PROJECT 
 install :
 ```
 npm install
